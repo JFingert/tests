@@ -1,4 +1,4 @@
-describe("Midway: Testing SM API Services", function() {
+describe("Midway: Testing API Service", function() {
 
   var tester, $Service;
 
